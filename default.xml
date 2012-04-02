@@ -30,6 +30,14 @@
   <project path="device/moto/stingray" name="CyanogenMod/android_device_moto_stingray" />
   <project path="device/moto/wingray" name="CyanogenMod/android_device_moto_wingray" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
+  <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
+  <project path="device/samsung/fascinatemtd" name="Stevespear426/android_device_samsung_fascinatemtd" revision="ics" />
+  <project path="device/samsung/mesmerizemtd" name="Stevespear426/android_device_samsung_mesmerizemtd" revision="master" />
+  <project path="device/samsung/showcasemtd" name="Stevespear426/android_device_samsung_showcase" revision="master" />
+  <project path="device/samsung/captivatemtd" name="teamhacksung/android_device_samsung_captivatemtd" revision="ics" />
+  <project path="device/samsung/galaxysmtd" name="teamhacksung/android_device_samsung_galaxysmtd" revision="ics" />
+  <project path="device/samsung/vibrantmtd" name="teamhacksung/android_device_samsung_vibrantmtd" revision="master" />
+  <project path="device/samsung/aries-common" name="Stevespear426/android_device_samsung_aries-common" revision="ics" />
   <project path="device/samsung/maguro" name="CyanogenMod/android_device_samsung_maguro" />
   <project path="device/samsung/p4-common" name="CyanogenMod/android_device_samsung_p4-common" />
   <project path="device/samsung/p5-common" name="CyanogenMod/android_device_samsung_p5-common" />
